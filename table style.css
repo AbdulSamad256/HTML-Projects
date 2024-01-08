@@ -1,0 +1,38 @@
+.smd{
+    background-color:teal;
+
+}
+.white{
+    background-color:cadetblue ;
+}
+.arial{
+    background-color: rgb(147, 184, 156);
+}
+.shift{
+    background-color:rgb(86, 131, 131);
+}
+#civic{
+    background-color:rgb(121, 158, 158);
+}
+#drive{
+    border-color:black;
+    border-style: solid;
+}
+.honda{
+    background-color: rgb(104, 168, 125);
+}
+.alto{
+    background-color:rgb(86, 133, 117);
+}
+.mira{
+    background-color: rgb(115, 167, 115);
+}
+.cultus{
+    background-color: lightslategrey;
+}
+.sonata{
+     background-color:rgb(96, 144, 173);
+}
+.elantra{
+    background-color:rgb(66, 107, 141);
+}
